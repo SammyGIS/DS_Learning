@@ -1,2 +1,6 @@
-# Data-Science-Project
-Diifferernt stages of Data Analysis are explored suing different dataset to derive insights from data and also make some prediction
+# Data Science Learning Path
+This repository is created to guide Data Sceince learning path
+
+Every road map of being a data sciencetist will be followed using this repository .
+
+Every line of code in this repository will be well commented for externa use case
